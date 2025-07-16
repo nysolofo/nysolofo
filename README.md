@@ -1,16 +1,20 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?time_range=all_time&include_private=true&username=nysolofo&compact=true&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true&exclude_repo=github-readme-stats,nysolofo.github.io&langs_count=8&size_weight=0.5&count_weight=0.5&hide=html,css,batchfile" alt="nysolofo's most used languages" />
+<div align="center">
 
-<!--
-**nysolofo/nysolofo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://media.giphy.com/media/jIgXf4hgbHCeK7GmWh/giphy.gif" width="30px"> `>_` Terminal Profile `</>` <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px">
 
-Here are some ideas to get you started:
+###  | Competitive Programmer |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat&logo=github)
+![Years](https://badges.strrl.dev/years/Fenohasina22?color=00aa00&style=flat)
+![Repos](https://badges.strrl.dev/repos/Fenohasina22?color=00aa00&style=flat)
+
+</div>
+
+## 📊 Development Stats
+
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fenohasina22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=ffff00&include_all_commits=true)](https://github.com/Fenohasina22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenohasina22&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&langs_count=6)](https://github.com/Fenohasina22)
+
+</div>
